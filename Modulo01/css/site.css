@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0 32px 0;
+display: inline-block;
+border: 1px solid #ccc;
+box-sizing: border-box;
+}
+
+#container {
+margin: 0px auto;
+width: 50%;
+}
+
+#data {
+padding: 16px;
+}
+
+img{
+    display: block;
+    width: 200px;
+    margin: auto;
+}
+
+#button{
+    width: 100px;
+    border-radius: 4px;
+    background-color: orange;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#button:active{
+    position: relative;
+    top: 1px;
+}
+
+
